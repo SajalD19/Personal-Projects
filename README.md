@@ -12,7 +12,7 @@ I used python lists, loops and packages like pandas and matplotlib.
 • Built a predictive model to understand factors that influence buying behaviours.
 
 ## Project 3: Exploring NYC Public School Test Result Scores (DataCamp Project)
-This project analyzes standardized test performance data from New York City's public schools to achieve the following goals:
+This project analyzes standardized test performance data from New York City's public schools to achieve the following goals: 
 • Identify the schools with the highest math performance.
 • Examine how math performance varies across different boroughs.
 • Determine the top ten performing schools in the city.
