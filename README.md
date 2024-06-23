@@ -16,3 +16,8 @@ This project analyzes standardized test performance data from New York City's pu
 • Identify the schools with the highest math performance. <br>
 • Examine how math performance varies across different boroughs. <br>
 • Determine the top ten performing schools in the city.
+
+## Project 4: Visualizing the History of Nobel Prize Winners (DataCamp Project)
+• Analyzed Nobel Prize winner data to determine the most commonly awarded gender and birth country. <br>
+• Identified the decade with the highest ratio of US-born laureates and the decade-category combination with the highest proportion of female laureates. <br>
+• Discovered the first female Nobel Prize winner and her category, and compiled a list of repeat laureates. <br>
