@@ -21,3 +21,7 @@ This project analyzes standardized test performance data from New York City's pu
 • Analyzed Nobel Prize winner data to determine the most commonly awarded gender and birth country. <br>
 • Identified the decade with the highest ratio of US-born laureates and the decade-category combination with the highest proportion of female laureates. <br>
 • Discovered the first female Nobel Prize winner and her category, and compiled a list of repeat laureates. <br>
+
+## Project 5: Data-Driven Product Management Conducting a Market Analysis (DataCamp Project)
+
+Conducted market analysis using data manipulation techniques in python to examine trends in online interest for fitness products and developed visualizations to inform strategic product decisions and drive market expansion.
